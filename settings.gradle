@@ -1,0 +1,3 @@
+include ':plugin_gson_sdk'
+include ':app'
+rootProject.name = "GsonPluginSdk"
